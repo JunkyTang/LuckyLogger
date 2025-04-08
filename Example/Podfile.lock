@@ -1,0 +1,16 @@
+PODS:
+  - LuckyLogger (0.1.0)
+
+DEPENDENCIES:
+  - LuckyLogger (from `../`)
+
+EXTERNAL SOURCES:
+  LuckyLogger:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LuckyLogger: a5a953423594c820ad0da818dd7075d5b58d6d12
+
+PODFILE CHECKSUM: e94a143ac17712939c749cdb37f2c74bec4f28ad
+
+COCOAPODS: 1.16.2
